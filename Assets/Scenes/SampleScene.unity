@@ -1503,7 +1503,7 @@ MonoBehaviour:
   yMinLimit: 3
   yMaxLimit: 60
   distance: 12
-  minDistance: 12
+  minDistance: 5
   maxDistance: 30
   needDamping: 1
   x: 0
